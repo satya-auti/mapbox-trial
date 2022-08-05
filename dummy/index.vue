@@ -39,6 +39,7 @@ export default {
 <style>
 /* @import "~mapbox-gl/dist/mapbox-gl.css";
 @import "~v-mapbox/dist/v-mapbox.css"; */
+/* css code */
 html,
 body {
   margin: 0;
